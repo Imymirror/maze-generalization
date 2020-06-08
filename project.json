@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.4",
+  "name": "MazeGeneralization",
+  "uuid": "700759ec-633a-42e6-8ceb-39414a307e4a",
+  "id": "1e3ac347-22ee-498b-9e96-fe45c9fdc5c1",
+  "isNew": false
+}
