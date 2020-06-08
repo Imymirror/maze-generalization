@@ -9,10 +9,10 @@ Cocos Creator 源码工程 : 在 project 目录下.
 
 # 运行动画  
 
-非递推实现的随机地图生成过程演示:  
+非递归实现的随机地图生成过程演示:  
 ![](./Image/迷宫的寻路与程序生成/version2-generation.gif)  
 
-非递推实现的随机地图生成寻路过程演示:  
+非递归实现的随机地图生成寻路过程演示:  
 ![](./Image/迷宫的寻路与程序生成/version2-findpath.gif)  
 
 
