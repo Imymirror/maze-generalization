@@ -65,8 +65,6 @@ Cocos Creator 源码工程 : 在 project 目录下.
 ![](Image/迷宫的寻路与程序生成/2020-06-09-00-08-45.png)  
 
 
-![](./Image/wechat.jpg)
-
 # LICENSE
 
 ```
